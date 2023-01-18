@@ -1,5 +1,5 @@
 {
-  "homepage": "http://{Adamwestt}.github.io/{portfolio}",
+  "homepage": "http://Adamwestt.github.io/{portfolio}",
   "name": "vsc_portfolio",
   "private": true,
   "version": "0.0.0",
@@ -8,8 +8,8 @@
     "dev": "vite",
     "build": "vite build",
     "preview": "vite preview",
-    "predeploy" : "npm run build",
-    "deploy" : "gh-pages -d build"
+    "predeploy": "npm run build",
+    "deploy": "gh-pages -d build"
   },
   "dependencies": {
     "react": "^18.2.0",
